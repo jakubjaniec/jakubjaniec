@@ -6,8 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakubjaniec/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jakubjaniec01@gmail.com)
 
-👨‍💻 19 Years old Flutter Developer  
-👨‍🎓 Studying Computer Science here in Switzerland  
-🚧 **Current Project:** [Tic-Tac-Toe](https://github.com/kubacarbon/TicTacToe)
+👨‍💻 19 years old Flutter Developer  
+🚧 **Current Project:** [TicTacToe](https://github.com/kubacarbon/TicTacToe)
 
 
