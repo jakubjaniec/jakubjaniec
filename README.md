@@ -9,6 +9,8 @@
 :computer: 19 years old Flutter Developer  
 :iphone: Learning Flutter as deep as I can
 
-:office: **Current Project:** [TicTacToe](https://github.com/kubacarbon/TicTacToe)
+:office: **Current Projects:**<br>
+:one: [TicTacToe](https://github.com/kubacarbon/TicTacToe)<br>
+:two: [M4-Design](https://github.com/kubacarbon/M4-Design)
 
 
