@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jakubjaniec01@gmail.com)
 
 :computer: 19 years old Flutter Developer  
-:iphone: Learning Flutter as deep as I can
+:iphone: Learning Flutter since June 2020
 
 :office: **Current Projects:**<br>
 :one: [TicTacToe](https://github.com/kubacarbon/TicTacToe)<br>
