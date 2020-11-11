@@ -10,7 +10,7 @@
 :iphone: Learning Flutter since June 2020
 
 :office: **Current Projects:**<br>
-:one: [TicTacToe](https://github.com/kubacarbon/TicTacToe)<br>
+:one: [Flutter-Auth](https://github.com/kubacarbon/flutter-firebase-auth)<br>
 :two: [M4-Design](https://github.com/kubacarbon/M4-Design)
 
 
