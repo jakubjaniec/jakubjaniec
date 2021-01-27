@@ -6,10 +6,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakubjaniec/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jakubjaniec01@gmail.com)
 
-:computer: 19 years old Flutter Developer  
+:computer: 20 years old Flutter Developer  
 :iphone: Learning Flutter since June 2020
-
-:office: **Current Projects:**<br>
-:one: [Flutter-Auth](https://github.com/kubacarbon/flutter-auth)<br>
-
-
