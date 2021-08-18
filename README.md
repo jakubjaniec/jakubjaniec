@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jakubjaniec&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jakubjaniec&show_icons=true&count_private=true&theme=dracula">
 
 ### Hi there, I'm Jakub <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px">
 
